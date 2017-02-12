@@ -1,0 +1,26 @@
+h1
+{
+  color: #ff0000;
+}
+
+body
+  {
+    background-color: #00ff00;
+    margin: 0px;
+
+}
+.container
+  {
+    height: 50%;
+    background-color: #0000ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+#koop
+  {
+    background-color: #ff0000;
+  }
+#gehoorzaam
+
+h2
