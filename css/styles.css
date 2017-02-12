@@ -2,25 +2,22 @@ h1
 {
   color: #ff0000;
 }
-
 body
-  {
-    background-color: #00ff00;
-    margin: 0px;
-
+{
+  height: 70%;
+  background-color: #0000ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.container
-  {
-    height: 50%;
-    background-color: #0000ff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-#koop
-  {
-    background-color: #ff0000;
-  }
-#gehoorzaam
+{
+  background-color: #00ff00;
+  margin: 0px;
+}
+.blogtitel
+{
+  display: block;
+  color: #0000ff;
+}
 
-h2
+.blogtekst
